@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MoveIT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/MoveIT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
